@@ -1,5 +1,5 @@
-# bf-hello-world
-Hello world on Brainfuck
+# hello-world
+hello world in all programming languages
 
-# Setup
-idk, use repl.it
+# Programing languages
+Empty :)
