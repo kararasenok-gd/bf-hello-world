@@ -2,4 +2,4 @@
 Hello world on Brainfuck
 
 # Setup
-idk
+idk, use repl.it
