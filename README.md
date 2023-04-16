@@ -1,5 +1,5 @@
 # hello-world
-hello world in all programming languages
+Hello world in 22 programming languages
 
 # Programing languages
-Empty :)
+С, C++, Java, C#, Ruby, Go, Swift, Lua, TypeScript, Haskell, Rust, Dart, R, Kotlin, Scala, LOLCODE, Brainfuck, Python, JavaScript, PHP, Bash, Batch
